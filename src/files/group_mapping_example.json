@@ -1,0 +1,12 @@
+{
+    "groups": [
+        {
+            "input": "SDE",
+            "value": "Software Development Engineering"
+        },
+        {
+            "input": "UIUX",
+            "value": "UI/UX Design Team"
+        }
+    ]
+}

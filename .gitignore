@@ -1,0 +1,12 @@
+group_mapping.json
+group_membership.csv
+groups.csv
+users.csv
+application_assignments.csv
+.env
+source/
+lib/
+*pycache*
+include/
+bin/
+*.cfg

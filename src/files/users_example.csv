@@ -1,0 +1,2 @@
+employeeId,firstName,middleName,lastName,username,jobTitle,department,managerName,managerUsername,phoneNumber,streetAddress,city,state,postalCode,country,dateOfEmployment,employeeType,isActive,dateTerminated
+10001,David,Kong,Thao,david.thao,Very Cool Title,Engineering,David Kong Thao,david.thao,6127241500,100 6th St,Minneapolis,MN,55408,United Stateso of America,7-Jul-22,Full-Time,TRUE,N/A
